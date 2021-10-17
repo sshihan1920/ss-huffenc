@@ -12,14 +12,17 @@ Code Citation
 Sedgewick, Robert. “Strings: Data Compression.” Algorithms, edited by Kevin Wayne, 4th ed., Princeton University, 2011, p. 828. 
 Sum HTNode Creation Method
 Creates a new HTNode using parameter int sum as value for the “freq” value of the Node (everything else is set to null)
+
 Trie Methods:
 Starts Line 45
 Code Citation
 Sedgewick, Robert. “Strings: Data Compression.” Algorithms, edited by Kevin Wayne, 4th ed., Princeton University, 2011, p. 828-835. 
+
 MinPQ Class:
 Starts Line 125
 Code Citation
 Sedgewick, Robert, and Kevin Wayne. “MinPQ.java.” Princeton University, The Trustees of Princeton University, algs4.cs.princeton.edu/24pq/MinPQ.java.html.
+
 Non-Textbook HuffmanSubmit Methods:
 Starts Line 283
 Frequency HashMap Maker Method
